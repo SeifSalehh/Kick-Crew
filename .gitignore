@@ -1,0 +1,17 @@
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+.idea/
+*.iml
+node_modules/
+build/
+dist/
+.env
+.env.*
+.DS_Store
